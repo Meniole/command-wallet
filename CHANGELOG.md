@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Meniole/command-wallet/compare/v1.1.0...v1.2.0) (2024-07-28)
+
+
+### Features
+
+* added rpc-handler to select the fastest rpc ([9c159f1](https://github.com/Meniole/command-wallet/commit/9c159f1a87c0f9edcc7927fff99655e1f08ff83a))
+
 ## [1.1.0](https://github.com/Meniole/command-wallet/compare/v1.0.0...v1.1.0) (2024-07-16)
 
 
